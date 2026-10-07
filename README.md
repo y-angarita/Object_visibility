@@ -2,6 +2,8 @@
 
 Calculate and visualize the visibility of an astronomical target (in Galactic coordinates) from a given observatory, including Sun/Moon altitude, astronomical night, and target airmass.
 
+**Live app:** https://object-visibility-dma3brbf8md7jtwf4yv2hu.streamlit.app/
+
 This package provides:
 
 - A reusable Python module for visibility calculations.
